@@ -28,8 +28,6 @@ Getting started is super simple:
 sh
 Copy
 Edit
-# Clone the repository 🌍
-$ git clone https://github.com/ashna111/clean-and-green.git
 
 # Install dependencies 📦
 $ npm install
