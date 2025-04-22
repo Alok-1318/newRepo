@@ -25,9 +25,6 @@ Before you get started, make sure you have:
 🚀 Installation & Setup
 Getting started is super simple:
 
-sh
-Copy
-Edit
 
 # Install dependencies 📦
 $ npm install
